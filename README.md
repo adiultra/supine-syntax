@@ -2,13 +2,13 @@
 
 A vividly flat theme.
 
-Supine focuses on flat and colourful, it is biased towards blue and is great with arch gtk theme.
+Supine focuses on flat and colourful, it is biased towards blue (and is great with `arc gtk` theme in linux)
 
-It works extremely well with atom-material ui.
+It works extremely well with `atom-material` ui.
 
 ## Obligatory screen shot :gun:
 
-
+![Screenshot](Screenshot.png)
 
 ## Extra
 
@@ -21,4 +21,4 @@ ascent: `#899ec3`
 
 Also, use contrasting panels, themed tab-bar and shadows of panels in the atom-material settings.
 
-Made with :heart: by [@AdiUltra]()
+_Made with :heart: by [@AdiUltra](https://github.com/adiultra)_
