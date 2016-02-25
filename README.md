@@ -8,7 +8,7 @@ It works extremely well with `atom-material` ui.
 
 ## Obligatory screen shot :gun:
 
-![Screenshot](Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/adiultra/supine-syntax/master/Screenshot.png)
 
 ## Extra
 
