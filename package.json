@@ -1,0 +1,17 @@
+{
+  "name": "supine-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A vividly flat theme.",
+  "keywords": [
+    "syntax",
+    "flat",
+    "material",
+    "theme"
+  ],
+  "repository": "https://github.com/adiultra/supine-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
