@@ -8,7 +8,7 @@ It works extremely well with `atom-material` ui.
 
 ## Obligatory screen shot :gun:
 
-![Screenshot](https://raw.githubusercontent.com/adiultra/supine-syntax/master/Screenshot.png)
+![Screenshot](http://adiultra.github.io/noteworthyhtml/images/atom.png)
 
 ## Extra
 
@@ -18,7 +18,5 @@ primary: `#2f343f`
 
 ascent: `#899ec3`
 
-
-Also, use contrasting panels, themed tab-bar and shadows of panels in the atom-material settings.
 
 _Made with :heart: by [@AdiUltra](https://github.com/adiultra)_
